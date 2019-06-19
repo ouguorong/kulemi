@@ -1,0 +1,12 @@
+[
+	{"id":"1","name":"欢乐英雄","img":"http://www.kulemi.com/dl/project/logo/28165.jpg","score":"8.6","writer":"古龙","hot":"714","Label":"武侠小说"},
+	{"id":"2","name":"神雕侠侣","img":"http://www.kulemi.com/dl/project/logo/28803.jpg","score":"7.8","writer":"金庸","hot":"425","Label":"武侠小说"},
+	{"id":"3","name":"天龙八部","img":"http://www.kulemi.com/dl/project/logo/28877.jpg","score":"8.4","writer":"金庸","hot":"414","Label":"武侠小说"},
+	{"id":"4","name":"倚天屠龙记","img":"http://www.kulemi.com/dl/project/logo/28806.jpg","score":"7.3","writer":"金庸","hot":"408","Label":"武侠小说"},
+	{"id":"5","name":"阿呆的修仙小生活","img":"http://www.kulemi.com/dl/project/logo/31987.jpg","score":"7.7","writer":"都市","hot":"492","Label":"武侠小说"},
+	{"id":"6","name":"武林外史","img":"http://www.kulemi.com/dl/project/logo/28033.jpg","score":"7.6","writer":"古龙","hot":"398","Label":"武侠小说"},
+	{"id":"7","name":"周易","img":"http://www.kulemi.com/dl/project/logo/31540.jpg","score":"7.6","writer":"周文王","hot":"566","Label":"武侠小说"},
+	{"id":"8","name":"多情剑客无情剑","img":"http://www.kulemi.com/dl/project/logo/28121.jpg","score":"6.9","writer":"古龙","hot":"364","Label":"武侠小说"},
+	{"id":"9","name":"明草","img":"http://www.kulemi.com/dl/project/logo/31926.jpg","score":"7.6","writer":"周文王","hot":"566","Label":"武侠小说"},
+	{"id":"10","name":"陆小凤传奇","img":"http://www.kulemi.com/dl/project/logo/28163.jpg","score":"6.9","writer":"古龙","hot":"364","Label":"武侠小说"}
+]
